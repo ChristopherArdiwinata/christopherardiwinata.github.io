@@ -3136,3 +3136,8 @@ ul.actions.special {
 	}
 
 }
+
+
+#titleBar {
+	display: none;
+}
